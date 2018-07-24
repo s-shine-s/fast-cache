@@ -1,12 +1,12 @@
 {
-  "name": "fast-cache",
+  "name": "fast-cache-724",
   "version": "0.0.1",
   "description": "练习：短小精悍的前端缓存工具，防止内存“侧漏” ",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"release": "webpack",
-	"example": "http-server -p 8880"
+    "release": "webpack",
+    "example": "http-server -p 8880"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.16.2",
     "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
