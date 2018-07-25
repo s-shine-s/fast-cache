@@ -19,7 +19,7 @@ cache.set('a', 100);
 cache.get('a')
 ```
 
-## 清空
+## 清空 7-25
 
 ```ks
 cache.clear()
